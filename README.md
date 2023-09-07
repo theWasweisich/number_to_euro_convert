@@ -6,6 +6,8 @@ I made this project just because I thought some might need it. It is just a smal
 
 The idea is simple, you insert a number and it gives you a string with the proper representation in the Euro currency.
 
+(And sorry for my bad english, I am not a native speaker)
+
 ## Installation & Usage
 
 ```
